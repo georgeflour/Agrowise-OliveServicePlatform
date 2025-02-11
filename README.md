@@ -96,3 +96,8 @@ This project is developed as part of a university course and is expected to have
   
 ### 🎉 Final Step: You're Ready to Go!
 Grab a cup of coffee, start your Tomcat server, and enjoy using AgroWise! 🚀
+
+### Contributors
+-  **[Fanis Orfanoudakis](https://github.com/fanisorfan)**
+-  **[Iasonas Passam](https://github.com/jaspass04)**
+-  **[Giorgos Flourakis](https://github.com/georgeflour)**
